@@ -1,0 +1,13 @@
+saved_models/history/
+saved_models/model/
+saved_models/weights/
+
+DATASET/
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

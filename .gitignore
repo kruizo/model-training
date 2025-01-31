@@ -1,7 +1,10 @@
 saved_models/history/
 saved_models/model/
 saved_models/weights/
-FinalModels/__pycache__
+
+**/__pycache__/
+
+*.pyc
 
 DATASET/
 

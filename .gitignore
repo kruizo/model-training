@@ -1,11 +1,12 @@
 saved_models/*
-
+!saved_models/link.txt
 
 **/__pycache__/
 */__pycache__/
 *.pyc
 
 DATASET/*
+!DATASET/link.txt
 
 .env
 .venv

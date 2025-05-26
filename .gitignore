@@ -6,6 +6,7 @@ saved_models/*
 *.pyc
 
 DATASET/*
+DatasetBackup/
 !DATASET/link.txt
 
 .env
